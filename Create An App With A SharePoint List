@@ -1,0 +1,8 @@
+This is a powerapp that is connected to a SharePoint list. I have built a SharePoint list with the following fields:
+1. Title (Data type: Text)
+2. Description (Data Type: Multiline Text)
+3. DateTime (Data Type: DateTime with date and time selected explicitly)
+4. Status (Data Type: Dropdown)
+5. SpecialistName (Data Type: Text)
+6. Comment (Data Type: Multiline Text)
+

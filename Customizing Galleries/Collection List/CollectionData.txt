@@ -1,0 +1,12 @@
+ClearCollect(CitySales,
+{City:"Brisbane", Country:"Australia", Short:"BRS", Sales:73165400},
+{City:"Zurich", Country:"Switzerland", Short:"ZRH", Sales:1034593911},
+{City:"Stockholm", Country:"Sweden", Short:"SKH", Sales:5060202040},
+{City:"Melbourne", Country:"Australia", Short:"MEL", Sales:1373165400},
+{City:"Sydney", Country:"Australia", Short:"SYD", Sales:731654001313},
+{City:"Berlin", Country:"Germany", Short:"BER", Sales:42173165400},
+{City:"Munich", Country:"Germany", Short:"MNC", Sales:2874000},
+{City:"Hamburg", Country:"Germany", Short:"HMG", Sales:2273000},
+{City:"Dusseldorf", Country:"Germany", Short:"DLF", Sales:1494000},
+{City:"Rome", Country:"Italy", Short:"ROM", Sales:8901010},
+{City:"Brussels", Country:"Belgium", Short:"BRU", Sales:1344000})
